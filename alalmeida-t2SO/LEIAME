@@ -1,0 +1,8 @@
+Nesta pasta contém:
+
+código do trabalho: alalmeida.c
+arquivo sh para auxiliar na compilação com gcc: compila.sh
+documento relatório com os resultados obtidos com testes realizados: Trabalho2-SO
+
+
+Obs.: Também coloquei o sh usado para fazer os testes de tempo de execução, porém, para usar é necessário executar apenas um dos tipos (Sequencial, processos ou threads) por vez, pois uso a última linha do print com o tempo total de cada um dos tipos para realizar o cálculo com sh.
